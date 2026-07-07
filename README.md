@@ -1,7 +1,7 @@
 # Linux Admin Toolkit
 A Bash application developed during Linux classes to practice Shell Script and Linux system administration.
 
-![Demo] (assets/demo.gi)
+![Demo] (assets/demo.gif)
 
 ## 🇺🇸 English
 
